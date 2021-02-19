@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+<p> I am a software developer at the Princeton Neuroscience Institute at Princeton University. I develop web applications for data analysis and visualization of terabyte-scale neuroscience imaging datasets. My current software stack is: Docker, Python (Flask), MySQL, Javascript, HTML, CSS. My open-source work is shared at <a href="https://www.github.com/austinhoag">www.github.com/austinhoag</a>. I have a web blog where I share demos of some of my software tools: <a href="https://brainmaps.princeton.edu">BrainMaps</a>. My most recent blog post on graph visualization in brain mapping is <a href="https://brainmaps.princeton.edu/2020/09/visualizing-different-levels-of-the-brain-atlas-structure-hierarchy/">here</a>. My resume is available here: <a href="resume.pdf">resume.pdf</a></p>
+
+Before becoming a software developer, I was a postdoctoral researcher in astrophysics at UCLA. I studied the first galaxies in the universe and the imprint they left on the universe in a process known as <a href="https://en.wikipedia.org/wiki/Reionization">reionization</a>. During my PhD and Postdoc, I developed an image analysis pipeline for detecting and classifying galaxies in terabyte-scale space-based imaging datasets. My research has been featured in press releases from <a href="http://www.keckobservatory.org/recent/entry/faintest_early_universe_galaxy_ever_detected_and_confirmed"> Keck Observatory</a> and <a href="https://www.space.com/36441-ultra-distant-galaxy-is-exceptionally-unexceptional.html">Space.com</a>.
+</p>
 
 A data-driven personal website
 ======
