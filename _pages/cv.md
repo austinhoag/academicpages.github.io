@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.A. in Physics, Colby College, 2012. GPA 3.8
-* Ph.D in Physics, 2018. GPA 3.8
+* B.A. in Physics, Colby College, 2012. GPA: 3.8
+* Ph.D in Physics, 2018. GPA: 3.8
 
 Work experience
 ======
@@ -40,19 +40,3 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
