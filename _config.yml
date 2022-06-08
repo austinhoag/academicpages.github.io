@@ -67,9 +67,9 @@ analytics:
 author:
   name             : "Austin Hoag, PhD"
   avatar           : "profile.jpg"
-  bio              : "Software engineer with expertise in imaging data analysis. </br></br> I have experience applying machine learning and other statistical techniques to scientific and industry domains. "
-  location         : "Princeton, New Jersey"
-  employer         : "Princeton University"
+  bio              : "Machine Learning Engineer"
+  location         : "Sacramento, California"
+  employer         : "Berkeley Existential Risk Initiative"
   googlescholar    : "https://scholar.google.com/citations?user=U6ExNJkAAAAJ&hl=en&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
